@@ -1,3 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerzoid&layout=compact&hide_progress=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerzoid&theme=solarized_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerzoid&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerzoid&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerzoid&theme=solarized_dark)
